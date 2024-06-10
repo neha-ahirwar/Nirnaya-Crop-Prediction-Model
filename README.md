@@ -91,4 +91,3 @@ Start the frontend
 |Decision Tree|95.22|0.96|0.95|0.95|
 | Logistic Regression | 94.54 | 0.95   |0.95| 0.94  |
 
-
