@@ -92,12 +92,3 @@ Start the frontend
 | Logistic Regression | 94.54 | 0.95   |0.95| 0.94  |
 
 
-## Authors
-
-- [@satyamsoni](https://github.com/satyamsoni228)
-- [@tanmayshahi](https://github.com/tanmayshahi)
-- [@nehaahirwar](https://github.com/neha-ahirwar)
-
-## Feedback
-
-If you have any feedback, please reach out to us at ssoni6149@gmail.com
